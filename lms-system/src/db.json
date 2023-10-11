@@ -1,0 +1,28 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "Ahsan",
+        "courseId": 101,
+        "assignment1Score": 90,
+        "assignment2Score": 85,
+        "finalExamScore": 95
+      },
+      {
+        "id": 2,
+        "name": "Asif",
+        "courseId": 101,
+        "assignment1Score": 88,
+        "assignment2Score": 92,
+        "finalExamScore": 89
+      },
+      {
+        "id": 3,
+        "name": "Kinza",
+        "courseId": 102,
+        "assignment1Score": 92,
+        "assignment2Score": 91,
+        "finalExamScore": 94
+      }
+    ]
+  }

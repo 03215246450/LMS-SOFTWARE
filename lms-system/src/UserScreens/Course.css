@@ -1,0 +1,15 @@
+.course-card {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .course-card:hover {
+    transform: scale(1.05);
+    background-color: #333;
+    color: #fff;
+  }
+  body {
+    background-color: skyblue; 
+    margin: 0; 
+    padding: 0; 
+  }
+  
